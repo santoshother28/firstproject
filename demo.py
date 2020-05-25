@@ -1,2 +1,6 @@
 print("Welcome")
 print("Yahahaaha")
+print("Welcome")
+print("Yahahaaha")
+print("Welcome")
+print("Yahahaaha")
